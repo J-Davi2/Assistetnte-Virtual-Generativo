@@ -26,6 +26,10 @@ Preferi deixar de modo que você consiga olhar para o terminal e ir acompanhando
 
 ## Uso
 
+Antes de tudo, certifique-se de ter as bibliotecas instaladas corretamente.
+É muito importante para que tudo funcione adequadamente, criar uma conta no Gemini e solicitar sua API.
+Logo em seguida, coloque-a no lugar da API do projeto.
+
 Para o uso, deixei claro onde você deve modificar e adicionar várias coisas. Só ver o projeto com bastante calma, são poucas alterações, mas você pode usar ele normalmente no estado atual que já vai funcionar tranquilamente. Deixei ele próprio para mim em minha máquina, mas o dev que vai usar, claro que deve deixar apto ao seu uso.
 
 Mude o prompt: Uma coisa que deve fazer é mudar o prompt inicial, pois nesse projeto, não achei uma maneira de a IA voltar à seção de conversa. Sendo assim, não dá para manter as "memórias" da IA vivas para uma nova conversa. Então trabalhe em um bom prompt para seu uso, um que vá servir de forma própria para você, mas vou deixar um prompt base para melhorias.
