@@ -29,6 +29,7 @@ Preferi deixar de modo que você consiga olhar para o terminal e ir acompanhando
 Antes de tudo, certifique-se de ter as bibliotecas instaladas corretamente.
 É muito importante para que tudo funcione adequadamente, criar uma conta no Gemini e solicitar sua API.
 Logo em seguida, coloque-a no lugar da API do projeto.
+Certifique-se de buscar por "API KEY" na função "assistente_lillia()" e aplicar a API nessa seção do código.
 
 Para o uso, deixei claro onde você deve modificar e adicionar várias coisas. Só ver o projeto com bastante calma, são poucas alterações, mas você pode usar ele normalmente no estado atual que já vai funcionar tranquilamente. Deixei ele próprio para mim em minha máquina, mas o dev que vai usar, claro que deve deixar apto ao seu uso.
 
