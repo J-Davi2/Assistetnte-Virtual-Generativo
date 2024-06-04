@@ -1,6 +1,7 @@
-# Portfólio Pessoal
+#  Assistente virtual
 
 Assistente virtual produzido para ajudar e ser interativo, desenvolvido com Python e IA generativa (o Gemini).
+Vale lembrar desde já que é uma base, e melhorias virão. Se não quiser esperar, pode usar isso como base para melhorar por conta própria, se achar necessário.
 
 ## Visão Geral
 
