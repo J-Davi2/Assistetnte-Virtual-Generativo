@@ -46,11 +46,11 @@ def modo_espera(): # Função para esperar palavra passe
         print("Aguardando a palavra-chave...") #Enquanto não for chamado pelo nome de um dos dois assistentes, essa função irá continuar esperando 
         frase = reconhecer_fala()
         if frase:
-            if "zoe" in frase:
+            if "zoe" in frase: #Palavra passe de ativar a Zoe
                 print("Oi, estou ouvindo!")
                 assistente_zoe()
 
-            elif "lilia" in frase:
+            elif "lilia" in frase: #Palavra passe de ativar a Lilia
                 assistente_lillia()
 
 
@@ -58,7 +58,7 @@ def assistente_lillia(): #Função para assistente de voz 1, integrado com API d
     import google.generativeai as genai #import da biblioteca
 
     # Configurar a API key
-    genai.configure(api_key="AIzaSyDcU082NyNyCQSxceNQXNhtM-Fv0STCdbQ") #Api key
+    genai.configure(api_key=" {Coloque Aqui sua API} ") #Api key
 
     # Selecionar o modelo
     model = genai.GenerativeModel('gemini-pro') #Definindo modelo
